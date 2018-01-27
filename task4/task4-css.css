@@ -1,5 +1,6 @@
-.body{
+body{
     background-color: #eff0f4;
+    margin:0;
 }
 .box1{
     width:100vw;
