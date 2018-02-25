@@ -91,6 +91,7 @@ body{
     width: 100vw;
     height: 50px;
     background-color:#29bde0 ;
+    margin: -1px 0;
 }
 .tips{
     background-color:#29bde0 ;
@@ -104,55 +105,76 @@ body{
     left: 0;
 
 }
-
-
-
-
 /*身体部分*/
-
-
-
 .body1{
     background-color: #29bde0;
     width: 100vw;
     display: flex;
-    justify-content: space-between;
-
-
-
+    align-items: center;
+    margin-top: -1px;
+}
+.id12f{
+    width: 23vw;
+    margin: 0 5vw ;
 }
 .id1{
-    width: 25vw;
-    height: 25vw;
+    width: 23vw;
+    height: 23vw;
     border:3px solid #fff;
-    margin-left: 20px;
     background-color: #f5c97b;
+    font-size: 20px;
+
 }
+
 .id2{
+    width: 23vw;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #83b09a;
+}
 
-    width: 25vw;
-    height: 25vw;
-    border:3px solid #fff;
-    background-color: #f5c97b;
-
+.id1-1{
+    width: 23vw;
+    height: 18vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .id3{
-    width: 25vw;
-    height: 25vw;
-    border:3px solid #fff;
-    margin-right: 20px;
-    background-color: #f5c97b;
+    visibility: hidden;
+    width: 23vw;
+    height:7vw;
+    display: flex;
+    align-items: center;
+}
+.id12f:hover .id3{
+    visibility: visible;
 }
 
 
-.center{
-    width: 100vw;
-    height:30px;
-    background-color: #29bde0;
-    padding: 5px 20px 0 20px;
-    box-sizing: border-box;
 
+
+
+
+.img2-5-8{
+    width:5vw;
+    height: 5vw;
 }
+
+.img2-5-9{
+    height:5vw;
+    width:5vw;
+    margin-left:1.5vw;
+}
+
+.img2-5-10{
+    height:5vw;
+    width: 5vw;
+    margin:0 1.5vw;
+}
+
 
 
 

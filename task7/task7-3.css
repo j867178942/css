@@ -13,6 +13,7 @@ body{
     z-index: 100;
     color: #fff;
     font-size: 25px;
+    border-bottom: #74d4eb solid 2px ;
 }
 .button1-1{
     background-color:#29bde0;
@@ -49,14 +50,11 @@ body{
     height:130px;
     background-color: #29bde0;
 
-
-
-
 }
 .img3-3{
     display: block;
-    margin: -1px auto;
-    width:75%;
+    margin: 0 auto;
+    width:220px;
     height: 120px;
 }
 
