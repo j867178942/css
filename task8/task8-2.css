@@ -1,0 +1,52 @@
+.back1{
+    width:100vw;
+    height:13vw;
+    background-image: url("images/img1-2/战略合作企业1.jpg");
+    background-size:100% 100%;
+}
+.back2page1{
+    margin-top: 40px;
+}
+.back3page1{
+    color: #29b078;
+}
+
+.cooperation{
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #ededed;
+    text-align: center;
+}
+
+
+.cooperation-business{
+    height: 80px;
+    border-bottom: 1px solid #ededed;
+    color:#29b078;
+    padding-top: 30px;
+}
+
+.table1{
+    color:#29b078 ;
+    width: 120px;
+    margin: 0 auto;
+}
+.circle1{
+    height: 40px;
+    color: #fe6712;
+}
+.tudou{
+    border-bottom: 1px solid #ededed;
+    display: flex;
+    align-items: center;
+}
+
+
+.page3right{
+    height: 1000px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #ededed;
+}
+
+.duan{
+    margin-top: 20px;
+}

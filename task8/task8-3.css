@@ -1,0 +1,94 @@
+.back2page1{
+    margin-top: 40px;
+}
+.back3page1{
+    color: #29b078;
+}
+
+
+.directian{
+    border-top: 2px solid #d0d6d9;
+    padding-top: 10px;
+}
+.Occupation{
+   width: 70px;
+    height: 40px;
+    float:left;
+}
+
+
+.qianduankaifafangxiang{
+    border-top: 1px solid #999999;
+    padding-top: 10px;
+}
+
+
+.ziwojianjie{
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+}
+
+
+.blank{
+    height:40px;
+    width: 30px;
+}
+
+
+
+.zhiweiliebiaopart1{
+    display: flex;
+    align-items: center;
+    border:1px solid #edf1f2 ;
+}
+.people{
+    height: 100px;
+    width: 100px;
+}
+.zhiweiliebiaopart1-1{
+    margin-left: 10px;
+}
+
+.easy-father{
+    display: flex;
+    align-items: center;
+}
+
+.easy{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    border:1px solid #edf1f2;
+    border-bottom: none;
+}
+.easy1{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    border-bottom:1px solid #edf1f2 ;
+}
+
+.cash{
+    width: 50%;
+    text-align: center;
+}
+.border{
+    width:50%;
+}
+
+.border-topbottom{
+    border-top:1px solid #edf1f2 ;
+    border-bottom:1px solid #edf1f2 ;
+}
+
+
+.border1{
+
+    border: 1px solid #edf1f2;
+    border-bottom: none;
+
+}
+
+.position-this{
+
+}
