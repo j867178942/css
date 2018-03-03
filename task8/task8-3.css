@@ -53,8 +53,8 @@ body{
     border:1px solid #edf1f2 ;
 }
 .people{
-    height: 100px;
-    width: 100px;
+    height: 100px !important;
+    width: 100px !important;
 }
 .zhiweiliebiaopart1-1{
     margin-left: 10px;

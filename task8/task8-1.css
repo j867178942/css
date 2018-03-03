@@ -4,6 +4,7 @@
 
 body{
     min-width:330px;
+    max-width: 1800px;
     overflow-x: hidden;
 }
 .body-part1{
@@ -189,7 +190,6 @@ body{
 /*footer*/
 /*footer*/
 .footer{
-    width: 100vw;
     padding-top:30px;
     padding-bottom: 30px;
     background-color: #29b078;
